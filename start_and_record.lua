@@ -1,7 +1,7 @@
 -- Radar Settings (Original)
 -- 1 Tx 4 Rx | real samplint
 
-COM_PORT = 18 -- 12 for 1843 on Edwin laptop (Application Port)
+COM_PORT = 18 
 RADARSS_PATH = "C:\\ti\\mmwave_studio_02_00_00_02\\mmWaveStudio\\Scripts\\..\\..\\rf_eval_firmware\\radarss\\xwr18xx_radarss.bin"
 MASTERSS_PATH = "C:\\ti\\mmwave_studio_02_00_00_02\\mmWaveStudio\\Scripts\\..\\..\\rf_eval_firmware\\masterss\\xwr18xx_masterss.bin"
 -- SAVE_DATA_PATH = "C:\\ti\\mmwave_studio_02_00_00_02\\mmWaveStudio\\PostProc\\adc_data.bin"
