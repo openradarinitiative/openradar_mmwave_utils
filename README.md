@@ -1,4 +1,4 @@
-# MiniRadar source
+# Open Radar mmwave utils
 
 Repository for TI MMWave utils and simple processing.  
 This repository contains:
